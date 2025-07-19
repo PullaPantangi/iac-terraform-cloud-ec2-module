@@ -10,6 +10,7 @@ variable sg_id {}
 variable  az {}
 variable comman_tags {}
 variable Env {}
+variable pub_sub {}
 
   
 
